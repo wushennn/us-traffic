@@ -1,5 +1,5 @@
 # us-traffic
-Please refer to [traffic_dataset.ipynb](https://github.com/wushennn/us-traffic/blob/main/traffic_dataset.ipynb).
+Please refer to [traffic_dataset.ipynb](https://github.com/wushennn/us-traffic/blob/main/traffic_dataset.ipynb). Analysis, description and code documentation is included in the notebook :)
 
 # Introduction (taken from notebook)
 
