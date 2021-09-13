@@ -1,2 +1,2 @@
 # us-traffic
-Refer to the Jupyter Notebook
+Please refer to traffic_dataset.ipynb. Code is discussed there.
